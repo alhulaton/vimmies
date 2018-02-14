@@ -136,7 +136,7 @@ nmap <c-c> :x<cr>
 nnoremap <C-w>\ <C-w>\|<C-w>_
 
 " mode exit
-imap jj <esc>
+imap jk <esc>
 
 " kill highlight
 map <space>l :let @/=''<cr>
